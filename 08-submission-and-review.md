@@ -11,6 +11,7 @@ App Store Connect gathers everything to review into a **Draft Submission** (the 
    - the **subscription group**
    - **each subscription** in it (a group alone fails with "New subscription groups must be submitted with an auto-renewable subscription from within that group")
    - **each non-consumable or consumable**
+   - **each retention message** (subscription › Retention Messaging). ⚠️ Easy to forget; it also needs an app version in the same submission.
 3. Open **Draft Submission**. It should say "Items added below will be reviewed together with iOS version X", list **every item**, and show **no yellow warning**.
 4. ⚠️ **Submit for Review** turns blue as soon as the version alone is in the draft. **Don't submit until the products are listed too**; otherwise the app is reviewed with an empty paywall, which is a common rejection.
 5. **Submit for Review.** The status becomes **Waiting for Review**.

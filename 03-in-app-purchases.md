@@ -88,4 +88,4 @@ Shown on Apple's **Confirm Cancellation** screen.
 - **Body:** ⚠️ **under 144 characters**. Don't mention prices or offers in the text.
 - **Image:** optional; 3840 × 2160 or 5244 × 2950.
 - **Subscriptions & Offers:** attach to each plan; an offer is optional (it needs a promotional offer created first).
-- It's reviewed with the subscriptions.
+- ⚠️ It has its own **Add for Review**, and **it needs an app version in the same submission**. Add it to the first release's draft together with the products. If you forget, it waits in a draft until the next app version.

@@ -24,6 +24,7 @@ Everything that confused or blocked the first release, with the fix.
 | TestFlight subscription renewing "slowly" | TestFlight renews **daily** (up to six times) | That's expected; sandbox from Xcode is faster |
 | Custom offer codes blocked | The product isn't approved yet | Create codes on launch day |
 | Retention message body rejected | Over 144 characters | Shorten it |
+| Retention message left out of the review; on its own it says "add an app version" | It's a separate review item and needs a version | Add it to the same draft as the version and products; if you missed it, it ships with the next version |
 | "Developer" menu missing in Settings | Developer Mode is off | Settings › Privacy & Security › Developer Mode |
 | Device run says "Build succeeded" and nothing happens | Xcode is still extracting OS symbols | Wait 5–15 minutes with the phone unlocked |
 | UI tests hang or "does not have a process ID" | The Mac is overloaded (load average in the hundreds) | Shut down extra simulators, then rerun |

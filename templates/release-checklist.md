@@ -11,7 +11,7 @@ Copy this into an issue or note for each release. Skip the **First release only*
 - [ ] Bundle ID and capabilities; app record created ([02](../02-app-record-and-capabilities.md))
 - [ ] Products created with prices, availability, localization, review screenshots, and Family Sharing decided ([03](../03-in-app-purchases.md))
 - [ ] Subscription levels set; free trial added; grace period on
-- [ ] Retention message (optional); offer code offer created (codes come on launch day)
+- [ ] Retention message (optional), **added to the same draft as the version**; offer code offer created (codes come on launch day)
 - [ ] Purchases tested: simulator (StoreKit file) › device (sandbox) › TestFlight ([04](../04-testing-purchases.md))
 - [ ] Screenshots for every slot at the sizes the slot lists ([05](../05-screenshots.md))
 - [ ] Privacy label matches the privacy manifest; age rating; content rights; category ([06](../06-listing-and-compliance.md))
